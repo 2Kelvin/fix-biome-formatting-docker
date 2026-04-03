@@ -19,3 +19,5 @@ Pushing the image to docker hub:
 ```bash
 docker push rocketman02/biome-file-formatter:v1
 ```
+
+You can view the image [here](https://hub.docker.com/layers/rocketman02/biome-file-formatter)
